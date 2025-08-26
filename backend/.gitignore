@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.env
+database/*.db
+database/*.db-wal
+database/*.db-shm
+.DS_Store
+dist/
+build/
